@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "16785990807",
+    "project_id": "authkiosko",
+    "storage_bucket": "authkiosko.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16785990807:android:b3c2a0d3405c95d8a4f5d2",
+        "android_client_info": {
+          "package_name": "com.example.kiosko_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16785990807-bin26h5a5em00rn5pjc8g7cptqma9osr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4kFpb7Dp1iEFSHEOgJDaMgEVMFv73Iaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16785990807-bin26h5a5em00rn5pjc8g7cptqma9osr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
